@@ -305,7 +305,8 @@ body {
 
 /*account.html*/
 .LabelIndent {
-	margin-left: 20px;
+	margin-top: 10px;
+	margin-left: 30px;
 	margin-right: 20px;
 	font-size: 19px;
 }
@@ -458,6 +459,7 @@ body {
 
 input,
 select {
+	margin-top: 6px;
 	height: 27px;
 	font-size: 20px;
 }
@@ -473,4 +475,3 @@ label {
 	cursor: pointer;
 	background-color: white;
 }
-
